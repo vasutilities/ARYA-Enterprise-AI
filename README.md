@@ -1,1 +1,5 @@
 # ARYA-Enterprise-AI
+
+1.  Create and activate virtual env
+python3 -m venv .venv
+source .venv/bin/activate

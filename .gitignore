@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+Render_Postgres.session.sql 
+Render_Postgres_Arya.session.sql
 # Distribution / packaging
 .Python
 build/
